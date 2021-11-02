@@ -128,17 +128,3 @@ async def ghelp(_, message: Message):
         ),
 
     )
-        
-      
-
-
-
-
-
-
-
-
-
-
-
-
