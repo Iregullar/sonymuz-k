@@ -6,7 +6,7 @@ youtube_dl
 youtube_search_python==1.4.6
 aiofiles 
 requests
-aiohttp
+aiohttp==3.7.4
 asyncio
 youtube_search
 search_engine_parser
